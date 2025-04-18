@@ -19,4 +19,7 @@ The frontend is built using **React.js**, allowing users to interact with the mi
 ✅ **Secure API calls** with self-signed certificate handling  
 ✅ Fully functional **React frontend**  
 
+## 🖼 Screenshot
+Here's how the app looks:
 
+![App Screenshot](https://github.com/PriyanshuPoniaa/2215001348/blob/main/fetch.png)
