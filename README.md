@@ -19,6 +19,4 @@ The frontend is built using **React.js**, allowing users to interact with the mi
 ✅ **Secure API calls** with self-signed certificate handling  
 ✅ Fully functional **React frontend**  
 
----
 
-## 📂 Project Structure
